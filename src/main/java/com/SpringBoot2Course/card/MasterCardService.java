@@ -1,6 +1,6 @@
-package com.SpringBoot2Course.Card;
+package com.SpringBoot2Course.card;
 
-import com.SpringBoot2Course.Car.Card;
+import com.SpringBoot2Course.car.Card;
 import org.springframework.stereotype.Service;
 
 @Service

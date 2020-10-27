@@ -1,4 +1,4 @@
-package com.SpringBoot2Course.Car;
+package com.SpringBoot2Course.car;
 
 import org.springframework.stereotype.Service;
 

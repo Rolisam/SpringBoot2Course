@@ -1,7 +1,6 @@
-package com.SpringBoot2Course.Internationalization;
+package com.SpringBoot2Course.internationalization;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cglib.core.Local;
 import org.springframework.context.MessageSource;
 import org.springframework.stereotype.Service;
 
