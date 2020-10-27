@@ -22,8 +22,8 @@ public class CarService {
       carList.add(car3);
    }
 
-   @EventListener(ApplicationReadyEvent.class)
-   public void showCar(){
+   public List<Car> showCar(){
       carList.forEach(System.out::println);
+      return carList;
    }
 }
