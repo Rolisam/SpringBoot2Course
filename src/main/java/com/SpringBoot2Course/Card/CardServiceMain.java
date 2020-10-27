@@ -1,5 +1,6 @@
-package com.SpringBoot2Course;
+package com.SpringBoot2Course.Card;
 
+import com.SpringBoot2Course.Car.Card;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;

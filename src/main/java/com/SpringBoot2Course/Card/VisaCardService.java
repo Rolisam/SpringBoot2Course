@@ -1,6 +1,6 @@
-package com.SpringBoot2Course;
+package com.SpringBoot2Course.Card;
 
-import org.springframework.context.annotation.Primary;
+import com.SpringBoot2Course.Car.Card;
 import org.springframework.stereotype.Service;
 
 //@Primary

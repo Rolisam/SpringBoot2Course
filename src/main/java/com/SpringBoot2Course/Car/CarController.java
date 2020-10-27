@@ -1,4 +1,4 @@
-package com.SpringBoot2Course;
+package com.SpringBoot2Course.Car;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -18,7 +18,6 @@ public class CarController {
 
    @GetMapping
    public List<Car> get() {
-      System.out.println("Wpadam2");
       return carService.showCar();
    }
 

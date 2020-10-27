@@ -1,4 +1,4 @@
-package com.SpringBoot2Course;
+package com.SpringBoot2Course.Car;
 
 public interface Card {
    String getInfo();
